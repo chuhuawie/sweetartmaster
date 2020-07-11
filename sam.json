@@ -30,6 +30,12 @@
       "key":"https://play.google.com/store/apps/details?id=cofs.live.face.sticker.sweet.camera"
     },
     {
+      "title":"Glitch Effect",
+      "subTitle":"Filter",
+      "photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Glitch/cover",
+      "key":"f005"  
+    },
+    {
       "title":"Fire on Photo",
       "subTitle":"Filter",
       "photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Fire/cover",
@@ -46,12 +52,6 @@
       "subTitle":"Sticker",
       "photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/sticker/Winter_story/cover",
       "key":"s011"  
-    },
-    {
-      "title":"Star on Sky",
-      "subTitle":"Filter",
-      "photo":"https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/res/filter/Star/cover",
-      "key":"f005"  
     },
     {
       "title":"Black art",
