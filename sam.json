@@ -119,99 +119,12 @@
       "showEditorBannerTip": "0: Hide, 1: Show Banner, 2: Show Smart Banner, other: use default"
     },
     {
-      "bannerAdMob": "ca-app-pub-8471481257064175/9712490957",
-      "interstitialAdMob": "ca-app-pub-8471481257064175/6703184231",
-      "rewardedVideoAdMob": "ca-app-pub-8471481257064175/5881057159",
-      "packageName": "tba.christmas.photo.frames_and_sticker"
-    },
-    {
-      "bannerAdMob": "ca-app-pub-8471481257064175/8060228439",
-      "interstitialAdMob": "ca-app-pub-8471481257064175/8775093041",
-      "rewardedVideoAdMob": "ca-app-pub-8471481257064175/5597716623",
-      "packageName": "tba.halloween.photo.editor.scary.mask"
-    },
-    {
-      "packageName": "trends.beauty.sweet.snap",
-      "bannerFAN": "2490311697716185_2490315191049169",
-      "homePageAdType": "admob",
-      "interstitialFAN": "2490311697716185_2490316087715746",
-      "mainAdType": "admob", 
-      "nativeFAN": "2490311697716185_2490313537716001"
-    },
-    {
-      "packageName": "tba.heart.camera.heart.crown.face.camera",
-      "nativeAdMob": "ca-app-pub-8471481257064175/8953792372",
-      "nativeFAN": "579211026176198_579211499509484",
-      "homePageAdType": "admob"
-    },
-    {
-      "packageName": "trends.beauty.split.camera.collage.maker",
-      "bannerAdMob": "ca-app-pub-8471481257064175/9024009672",
-      "interstitialAdMob": "ca-app-pub-8471481257064175/9810477738",
-      "nativeAdMob": "ca-app-pub-8471481257064175/5847181993",
-      "rewardedVideoAdMob": "ca-app-pub-8471481257064175/3552546367"
-    },
-    {
-      "packageName": "tba.selfie.camera.filter",
-      "bannerAdMob": "ca-app-pub-8471481257064175/1494410922",
-      "interstitialAdMob": "ca-app-pub-8471481257064175/5619264864",
-      "nativeAdMob": "ca-app-pub-8471481257064175/1564469782",
-      "rewardedVideoAdMob": "ca-app-pub-8471481257064175/3737430889"
-    },
-    {
-      "packageName": "tba.garden.photo.frames",
-      "bannerAdMob": "ca-app-pub-8471481257064175/8347965011",
-      "interstitialAdMob": "ca-app-pub-8471481257064175/5143217172",
-      "nativeAdMob": "ca-app-pub-8471481257064175/8890890498",
-      "rewardedVideoAdMob": "ca-app-pub-8471481257064175/8945417735"
-    },
-    {
-      "packageName": "trends.beauty.filter4selfie",
-      "bannerAdMob": "ca-app-pub-8471481257064175/9077279674",
-      "interstitialAdMob": "ca-app-pub-8471481257064175/3441809615",
-      "nativeAdMob": "ca-app-pub-8471481257064175/7381054628",
-      "rewardedVideoAdMob": "ca-app-pub-8471481257064175/2511871324",
-      "bannerFAN": "487436801964877_487437461964811",
-      "mainAdType": "admob",
-      "homePageAdType": "admob",
-      "interstitialFAN": "487436801964877_487437218631502",
-      "nativeFAN": "487436801964877_487437061964851"
-    },
-    {
-      "packageName": "trends.beauty.art.face.sweet.camera",
-      "bannerAdMob": "ca-app-pub-8471481257064175/8121971406",
-      "interstitialAdMob": "ca-app-pub-8471481257064175/7247873431",
-      "nativeAdMob": "ca-app-pub-8471481257064175/1337550135",
-      "rewardedVideoAdMob": "ca-app-pub-8471481257064175/6617318044",
-      
-      "bannerFAN": "390238548552545_390239505219116",
+      "packageName": "sweet.art.master.face.sweet.camera",
       "homePageAdType": "fan",
-      "interstitialFAN": "390238548552545_390239315219135",
-      "mainAdType": "fan", 
-      "nativeFAN": "390238548552545_390238928552507"
-    },
-    {
-      "packageName": "trends.art.photo.editor.collage_and_sticker", 
-      "mainAdType": "admob", 
-      "homePageAdType": "fan",
-      "bannerFAN": "2458619081072233_2458722007728607",
-      "interstitialFAN": "2458619081072233_2458723314395143",
-      "nativeFAN": "2458619081072233_2458619581072183",
-      "nativeAdMob": "ca-app-pub-8471481257064175/4078360906"
-    },
-    {
-      "packageName": "trends.beauty.hairstyles.editor",
-      "bannerAdMob": "ca-app-pub-8471481257064175/5396829938",
-      "interstitialAdMob": "ca-app-pub-8471481257064175/9340229785",
-      "nativeAdMob": "ca-app-pub-8471481257064175/9144503258",
-      "rewardedVideoAdMob": "ca-app-pub-8471481257064175/1457584929"
-    },
-    {
-      "packageName": "trends.beauty.magic.eye.color",
-      "bannerAdMob": "ca-app-pub-8471481257064175/6330923063",
-      "interstitialAdMob": "ca-app-pub-8471481257064175/9747423898",
-      "nativeAdMob": "ca-app-pub-8471481257064175/4495097212",
-      "rewardedVideoAdMob": "ca-app-pub-8471481257064175/5808178884"
+       "mainAdType": "fan", 
+      "bannerFAN": "899394760544333_899397190544090",
+      "interstitialFAN": "899394760544333_899396993877443",
+      "nativeFAN": "899394760544333_899395170544292"
     }
   ],
 
