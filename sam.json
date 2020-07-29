@@ -110,6 +110,21 @@
       "unofficial": "1",
       "unofficialTip": "0: It's normal, 1: It's unofficial"
     },
+
+
+
+  {
+      "packageName": "sam.sweet.snap.beauty.snap.camera.selfie.camera",
+      
+      "bannerAdMob": "ca-app-pub-5082741806887748/4033325841",
+      "interstitialAdMob": "ca-app-pub-5082741806887748/9094080836",
+      "nativeAdMob": "ca-app-pub-5082741806887748/8902509148",
+      "rewardedVideoAdMob": "ca-app-pub-5082741806887748/3841754154"
+    },
+
+
+
+
     {
       "packageName": "sweet.art.master.face.sweet.camera",
       "homePageAdType": "fan",
