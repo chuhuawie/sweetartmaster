@@ -113,7 +113,7 @@
 
 
 
-  {
+    {
       "packageName": "sam.sweet.snap.beauty.snap.camera.selfie.camera",
       
       "bannerAdMob": "ca-app-pub-5082741806887748/4033325841",
@@ -123,6 +123,14 @@
     },
 
 
+    {
+      "packageName": "sam.selfie.camera.filters.sweet.snap",
+      
+      "bannerAdMob": "ca-app-pub-5082741806887748/3736940231",
+      "interstitialAdMob": "ca-app-pub-5082741806887748/1110776896",
+      "nativeAdMob": "ca-app-pub-5082741806887748/4858450216",
+      "rewardedVideoAdMob": "ca-app-pub-5082741806887748/4678594619"
+    },
 
 
     {
