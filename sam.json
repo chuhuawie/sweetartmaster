@@ -165,7 +165,12 @@
        "mainAdType": "fan", 
       "bannerFAN": "1107415582992434_1107416329659026",
       "interstitialFAN": "1107415582992434_1107416242992368",
-      "nativeFAN": "1107415582992434_1107415762992416"
+      "nativeFAN": "1107415582992434_1107415762992416",
+
+      "bannerAdMob": "ca-app-pub-5082741806887748/1406731308",
+      "interstitialAdMob": "ca-app-pub-5082741806887748/6467486297",
+      "nativeAdMob": "ca-app-pub-5082741806887748/4962832936",
+      "rewardedVideoAdMob": "ca-app-pub-5082741806887748/1215159612"
     }
   ],
 
