@@ -135,6 +135,13 @@
 
     {
       "packageName": "sam.selfie.camera.filters.sweet.snap",
+
+      "homePageAdType": "fan",
+       "mainAdType": "fan", 
+       
+      "bannerFAN": "2704064133212941_2704065413212813",
+      "interstitialFAN": "2704064133212941_2704065276546160",
+      "nativeFAN": "2704064133212941_2704064426546245",
       
       "bannerAdMob": "ca-app-pub-5082741806887748/3736940231",
       "interstitialAdMob": "ca-app-pub-5082741806887748/1110776896",
