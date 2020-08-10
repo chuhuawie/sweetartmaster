@@ -113,40 +113,14 @@
 
 
     {
-      "packageName": "sweet.art.master.split.camera",
-      
-      "bannerAdMob": "ca-app-pub-5082741806887748/4994660517",
-      "interstitialAdMob": "ca-app-pub-5082741806887748/7177970721",
-      "nativeAdMob": "ca-app-pub-5082741806887748/3681578845",
-      "rewardedVideoAdMob": "ca-app-pub-5082741806887748/3238725713"
-    },
-
-
-
-    {
-      "packageName": "sam.sweet.snap.beauty.snap.camera.selfie.camera",
-      
-      "bannerAdMob": "ca-app-pub-5082741806887748/4033325841",
-      "interstitialAdMob": "ca-app-pub-5082741806887748/9094080836",
-      "nativeAdMob": "ca-app-pub-5082741806887748/8902509148",
-      "rewardedVideoAdMob": "ca-app-pub-5082741806887748/3841754154"
-    },
-
-
-    {
       "packageName": "sam.selfie.camera.filters.sweet.snap",
 
       "homePageAdType": "fan",
        "mainAdType": "fan", 
-       
+
       "bannerFAN": "2704064133212941_2704065413212813",
       "interstitialFAN": "2704064133212941_2704065276546160",
-      "nativeFAN": "2704064133212941_2704064426546245",
-      
-      "bannerAdMob": "ca-app-pub-5082741806887748/3736940231",
-      "interstitialAdMob": "ca-app-pub-5082741806887748/1110776896",
-      "nativeAdMob": "ca-app-pub-5082741806887748/4858450216",
-      "rewardedVideoAdMob": "ca-app-pub-5082741806887748/4678594619"
+      "nativeFAN": "2704064133212941_2704064426546245"
     },
 
 
@@ -172,12 +146,7 @@
        "mainAdType": "fan", 
       "bannerFAN": "1107415582992434_1107416329659026",
       "interstitialFAN": "1107415582992434_1107416242992368",
-      "nativeFAN": "1107415582992434_1107415762992416",
-
-      "bannerAdMob": "ca-app-pub-5082741806887748/1406731308",
-      "interstitialAdMob": "ca-app-pub-5082741806887748/6467486297",
-      "nativeAdMob": "ca-app-pub-5082741806887748/4962832936",
-      "rewardedVideoAdMob": "ca-app-pub-5082741806887748/1215159612"
+      "nativeFAN": "1107415582992434_1107415762992416"
     }
   ],
 
