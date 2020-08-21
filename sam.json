@@ -120,43 +120,51 @@
 
       "bannerFAN": "2704064133212941_2704065413212813",
       "interstitialFAN": "2704064133212941_2704065276546160",
-      "nativeFAN": "2704064133212941_2704064426546245",
-
-      "bannerAdMob": "ca-app-pub-5082741806887748/9775119995",
-      "interstitialAdMob": "ca-app-pub-5082741806887748/4981108253",
-      "nativeAdMob": "ca-app-pub-5082741806887748/1041863242",
-      "rewardedVideoAdMob": "ca-app-pub-5082741806887748/3668026580"
+      "nativeFAN": "2704064133212941_2704064426546245"
     },
 
 
     {
       "packageName": "sweet.art.master.face.sweet.camera",
+
       "homePageAdType": "fan",
        "mainAdType": "fan", 
+
       "bannerFAN": "899394760544333_899397190544090",
       "interstitialFAN": "899394760544333_899396993877443",
-      "nativeFAN": "899394760544333_899395170544292",
-
-  	  "bannerAdMob": "ca-app-pub-5082741806887748/3476454891",
-      "interstitialAdMob": "ca-app-pub-5082741806887748/2163373221",
-      "nativeAdMob": "ca-app-pub-5082741806887748/9850291552",
-      "rewardedVideoAdMob": "ca-app-pub-5082741806887748/8462038326"
+      "nativeFAN": "899394760544333_899395170544292"
     },
+
     {
       "packageName": "sweet.art.master.sweet.beauty.camera",
+
       "homePageAdType": "fan",
-       "mainAdType": "fan", 
+      "mainAdType": "fan", 
+
       "bannerFAN": "597621051127929_597621644461203",
       "interstitialFAN": "597621051127929_597621564461211",
-      "nativeFAN": "597621051127929_597621247794576"
+      "nativeFAN": "597621051127929_597621247794576",
+
+      "bannerAdMob": "ca-app-pub-8471481257064175/2477485410",
+      "interstitialAdMob": "ca-app-pub-8471481257064175/8851322070",
+      "nativeAdMob": "ca-app-pub-8471481257064175/6225158734",
+      "rewardedVideoAdMob": "ca-app-pub-8471481257064175/7538240404"
     },
+    
     {
       "packageName": "sweet.art.master.filter4s_nap_c_hat",
+
       "homePageAdType": "fan",
        "mainAdType": "fan", 
+
       "bannerFAN": "1107415582992434_1107416329659026",
       "interstitialFAN": "1107415582992434_1107416242992368",
-      "nativeFAN": "1107415582992434_1107415762992416"
+      "nativeFAN": "1107415582992434_1107415762992416",
+
+      "bannerAdMob": "ca-app-pub-8471481257064175/5678363827",
+      "interstitialAdMob": "ca-app-pub-8471481257064175/6100379110",
+      "nativeAdMob": "ca-app-pub-8471481257064175/5486792130",
+      "rewardedVideoAdMob": "ca-app-pub-8471481257064175/3474215778"
     }
   ],
 
