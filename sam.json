@@ -158,7 +158,7 @@
       "packageName": "sweet.art.master.filter4s_nap_c_hat",
 
       "homePageAdType": "fan",
-       "mainAdType": "fan", 
+      "mainAdType": "fan", 
 
       "bannerFAN": "1107415582992434_1107416329659026",
       "interstitialFAN": "1107415582992434_1107416242992368",
@@ -172,6 +172,13 @@
 
     {
       "packageName": "sweet.art.master.split.camera",
+
+      "homePageAdType": "fan",
+      "mainAdType": "fan", 
+
+      "bannerFAN": "651203399128675_651204149128600",
+      "interstitialFAN": "651203399128675_651204012461947",
+      "nativeFAN": "651203399128675_651203649128650",
       
       "bannerAdMob": "ca-app-pub-5082741806887748/8823836686",
       "interstitialAdMob": "ca-app-pub-5082741806887748/4884591670",
