@@ -189,6 +189,18 @@
       "interstitialAdMob": "ca-app-pub-5082741806887748/4884591670",
       "nativeAdMob": "ca-app-pub-5082741806887748/7319183321",
       "rewardedVideoAdMob": "ca-app-pub-5082741806887748/9945346662"
+    },
+
+    {
+      "packageName": "sam.heart.crown.face.camera.crown.heart.emoji",
+
+      "homePageAdType": "fan",
+      "mainAdType": "fan", 
+
+      "bannerFAN": "757500844814862_757502581481355",
+      "interstitialFAN": "757500844814862_757502344814712",
+      "nativeFAN": "757500844814862_757501284814818"
+      
     }
   ],
 
