@@ -201,6 +201,18 @@
       "interstitialFAN": "757500844814862_757502344814712",
       "nativeFAN": "757500844814862_757501284814818"
       
+    },
+
+    {
+      "packageName": "sam.sweet.snap.beauty.snap.camera.selfie.camera",
+
+      "homePageAdType": "admob",
+      "mainAdType": "admob", 
+
+      "bannerAdMob": "ca-app-pub-5082741806887748/4774088062",
+      "interstitialAdMob": "ca-app-pub-5082741806887748/7208679714",
+      "nativeAdMob": "ca-app-pub-5082741806887748/3269434706",
+      "rewardedVideoAdMob": "ca-app-pub-5082741806887748/1992862112"
     }
   ],
 
