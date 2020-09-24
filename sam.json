@@ -115,7 +115,7 @@
       "packageName": "sam.selfie.camera.filters.sweet.snap",
 
       "homePageAdType": "fan",
-       "mainAdType": "fan", 
+       "mainAdType": "admob", 
 
       "bannerFAN": "2704064133212941_2704065413212813",
       "interstitialFAN": "2704064133212941_2704065276546160",
@@ -147,7 +147,7 @@
       "packageName": "sweet.art.master.sweet.beauty.camera",
 
       "homePageAdType": "fan",
-      "mainAdType": "fan", 
+      "mainAdType": "admob", 
 
       "bannerFAN": "597621051127929_597621644461203",
       "interstitialFAN": "597621051127929_597621564461211",
