@@ -114,8 +114,8 @@
     {
       "packageName": "sam.selfie.camera.filters.sweet.snap",
 
-      "homePageAdType": "admob",
-       "mainAdType": "admob", 
+      "homePageAdType": "fan",
+       "mainAdType": "fan", 
 
       "bannerFAN": "2704064133212941_2704065413212813",
       "interstitialFAN": "2704064133212941_2704065276546160",
@@ -130,8 +130,8 @@
     {
       "packageName": "sweet.art.master.face.sweet.camera",
 
-      "homePageAdType": "admob",
-       "mainAdType": "admob", 
+      "homePageAdType": "fan",
+       "mainAdType": "fan", 
 
       "bannerFAN": "899394760544333_899397190544090",
       "interstitialFAN": "899394760544333_899396993877443",
@@ -145,8 +145,8 @@
     {
       "packageName": "sweet.art.master.sweet.beauty.camera",
 
-      "homePageAdType": "admob",
-      "mainAdType": "admob", 
+      "homePageAdType": "fan",
+      "mainAdType": "fan", 
 
       "bannerFAN": "597621051127929_597621644461203",
       "interstitialFAN": "597621051127929_597621564461211",
@@ -161,8 +161,8 @@
     {
       "packageName": "sweet.art.master.filter4s_nap_c_hat",
 
-      "homePageAdType": "admob",
-      "mainAdType": "admob", 
+      "homePageAdType": "fan",
+      "mainAdType": "fan", 
 
       "bannerFAN": "1107415582992434_1107416329659026",
       "interstitialFAN": "1107415582992434_1107416242992368",
@@ -178,7 +178,7 @@
       "packageName": "sweet.art.master.split.camera",
 
       "homePageAdType": "fan",
-      "mainAdType": "admob", 
+      "mainAdType": "fan", 
 
       "bannerFAN": "651203399128675_651204149128600",
       "interstitialFAN": "651203399128675_651204012461947",
@@ -194,14 +194,14 @@
       "packageName": "sam.heart.crown.face.camera.crown.heart.emoji",
 
       "homePageAdType": "fan",
-      "mainAdType": "admob", 
+      "mainAdType": "fan", 
 
       "bannerFAN": "757500844814862_757502581481355",
       "interstitialFAN": "757500844814862_757502344814712",
       "nativeFAN": "757500844814862_757501284814818",
 
 
-        "interstitialAdMob": "ca-app-pub-5082741806887748/4847062069"
+       "interstitialAdMob": "ca-app-pub-5082741806887748/4847062069"
   
     },
 
@@ -209,7 +209,7 @@
       "packageName": "sam.sweet.snap.beauty.snap.camera.selfie.camera",
 
       "homePageAdType": "fan",
-      "mainAdType": "admob", 
+      "mainAdType": "fan", 
 
       "bannerFAN": "3398640630192187_3398646696858247",
       "interstitialFAN": "3398640630192187_3398645450191705",
