@@ -115,7 +115,11 @@
       "packageName": "sam.selfie.camera.filters.sweet.snap",
 
       "homePageAdType": "fan",
-       "mainAdType": "fan", 
+      "mainAdType": "fan", 
+
+
+  	  "bannerAdMob": "ca-app-pub-5082741806887748/7427496513",
+
 
       "bannerFAN": "2704064133212941_2764607120491975",
       "interstitialFAN": "2704064133212941_2704065276546160",
@@ -142,6 +146,9 @@
       "homePageAdType": "fan",
       "mainAdType": "fan", 
 
+  	  "bannerAdMob": "ca-app-pub-5082741806887748/1600454765",
+
+
       "bannerFAN": "597621051127929_597621644461203",
       "interstitialFAN": "597621051127929_597621564461211",
       "nativeFAN": "597621051127929_597621247794576"
@@ -154,6 +161,8 @@
 
       "homePageAdType": "fan",
       "mainAdType": "fan", 
+
+       "bannerAdMob": "ca-app-pub-5082741806887748~4224466339",
 
       "bannerFAN": "1107415582992434_1107416329659026",
       "interstitialFAN": "1107415582992434_1107416242992368",
