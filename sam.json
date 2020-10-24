@@ -7,9 +7,9 @@
 
   "startAppEnable": "true",
   
-  "mainAdType": "admob",
+  "mainAdType": "fan",
 
-  "homePageAdType": "admob",
+  "homePageAdType": "fan",
 
   "homePageAppAdObject": {
     "appId": "pcm.art.heart.camera",
@@ -100,7 +100,7 @@
       "homePageAdType": "fan",
       "homePageAdTypeTips": "default|admob|fan|custom",
      
-      "mainAdType": "admob",
+      "mainAdType": "fan",
       "mainAdTypeAdTypeTips": "default|admob|fan|custom",
      
     
