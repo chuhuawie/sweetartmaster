@@ -12,14 +12,14 @@
   "homePageAdType": "fan",
 
   "homePageAppAdObject": {
-    "appId": "pcm.art.heart.camera",
-    "appName": "Heart Camera",
+    "appId": "live.face.beauty.sticker.sweet.camera",
+    "appName": "Live Face Sticker",
     "appUrl": "",
     "featureUrl": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/r003MinniMousePhotoEditor.png",
-    "iconUrl": "https://lh3.googleusercontent.com/VFgx0QAazPoGQh4aY91QVh9oowx9OyaNsIeVUvMTMxVF6tjXrSwtUJo3u3eAqWtWIw=s360-rw",
+    "iconUrl": "https://play-lh.googleusercontent.com/IjhMBsah5FH19uXVGkneJWagZFXGwtCVe01whfkjSkWM8PAhXGBN0AO68xb-1UgwWZY=s360-rw",
     "link": "",
-    "pubName": "Photo collage Master",
-    "description": "Has given you the chance to look cute girl with hundred of heart Camera effect, flower crown, dog face camera, cat stickers.."
+    "pubName": "Sweet Camera",
+    "description": "You can add funny stickers for Selfie photo: Heart Crown, Filters Crown, Cute Rabbit, Doggy Face, snappy photo..."
   },
 
   "promotion": [
