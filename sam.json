@@ -118,7 +118,9 @@
       "mainAdType": "fan", 
 
 
-  	  "bannerAdMob": "ca-app-pub-5082741806887748/7427496513",
+  	  "bannerAdMob": "ca-app-pub-8471481257064175/2915839196",
+      "interstitialAdMob": "ca-app-pub-8471481257064175/3638388769",
+      "nativeAdMob": "ca-app-pub-8471481257064175/8676583718",
 
 
       "bannerFAN": "2704064133212941_2764607120491975",
@@ -133,6 +135,12 @@
       "homePageAdType": "fan",
        "mainAdType": "fan", 
 
+
+	  "bannerAdMob": "ca-app-pub-8471481257064175/2325307099",
+      "interstitialAdMob": "ca-app-pub-8471481257064175/7741941846",
+      "nativeAdMob": "ca-app-pub-8471481257064175/4737338705",
+
+
       "bannerFAN": "899394760544333_899397190544090",
       "interstitialFAN": "899394760544333_899396993877443",
       "nativeFAN": "899394760544333_899395170544292"
@@ -146,7 +154,9 @@
       "homePageAdType": "fan",
       "mainAdType": "fan", 
 
-  	  "bannerAdMob": "ca-app-pub-5082741806887748/1600454765",
+   	  "bannerAdMob": "ca-app-pub-8471481257064175/3298982575",
+      "interstitialAdMob": "ca-app-pub-8471481257064175/3698098517",
+      "nativeAdMob": "ca-app-pub-8471481257064175/9672819230",
 
 
       "bannerFAN": "597621051127929_597621644461203",
@@ -162,7 +172,9 @@
       "homePageAdType": "fan",
       "mainAdType": "fan", 
 
-       "bannerAdMob": "ca-app-pub-5082741806887748~4224466339",
+      "bannerAdMob": "ca-app-pub-8471481257064175/6208216942",
+      "interstitialAdMob": "ca-app-pub-8471481257064175/1203797116",
+      "nativeAdMob": "ca-app-pub-8471481257064175/9864390928",
 
       "bannerFAN": "1107415582992434_1107416329659026",
       "interstitialFAN": "1107415582992434_1107416242992368",
